@@ -3,8 +3,12 @@
     padding:0;
 }
 header{
-    background-color: #383d58;
+    background-color: #424E61;
     color: white;
+    display: flex;
+    justify-content: space-arround;
+    alight-itens: center;
+    padding: 24px 0;
 }
 .cabecalho-imagem{
 width:20%
