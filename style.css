@@ -44,3 +44,10 @@ cabecalho {
 .escola-titulo {
     padding: 24px 0;
 }
+.estudante-icone{
+    widht: 24px;
+    padding: 4px 8px;
+}
+.estudante-div {
+    text-alight:center;
+    padding: 16px 0;
